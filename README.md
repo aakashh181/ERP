@@ -53,7 +53,7 @@ The Dashboard page provides an overview of product and order information.
 
 ### PRODUCT PAGE
 
-![Picsart_24-03-12_14-19-35-027](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/07df8b7b-6a33-40f5-a90b-f8120f0f9ac9)
+![Picsart_24-03-12_14-19-35-027](https://github.com/aakashh181/ERP/blob/11503d721f714c007e56ffda16800ff5d3e55e2d/productpage.png)
 
 
 On the Products page, you can view, add, edit, and delete products.
@@ -61,32 +61,32 @@ On the Products page, you can view, add, edit, and delete products.
 ### Viewing Product Information
 
 
-![Picsart_24-03-12_14-41-38-773](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/a44667c2-c7a2-4e25-8fef-d182767c3836)
+![Picsart_24-03-12_14-41-38-773](https://github.com/aakashh181/ERP/blob/11503d721f714c007e56ffda16800ff5d3e55e2d/productinfo.png)
 
 On the Products page, you can see a list of products with details such as name, category, price, and stock quantity.
 
 ### Editing a Product
 
-![Picsart_24-03-12_14-47-16-281](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/85b0723f-375c-4424-8c51-81c675676683)
+![Picsart_24-03-12_14-47-16-281](https://github.com/aakashh181/ERP/blob/11503d721f714c007e56ffda16800ff5d3e55e2d/editingaproduct.png)
 
 
 To edit a product, click on the "Edit" button next to the product you want to edit. Update the information and click "Save".
 
 ### Adding a New Product
 
-![Picsart_24-03-12_14-52-12-169](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/207aa8bb-c426-4244-8173-2165d0920f82)
+![Picsart_24-03-12_14-52-12-169](https://github.com/aakashh181/ERP/blob/11503d721f714c007e56ffda16800ff5d3e55e2d/addinganewproduct.png)
 
 To add a new product, click on the "Add Product" button, fill in the required fields, and click "Save".
 
 ### ORDER PAGE
 
-![Picsart_24-03-12_15-55-32-683](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/4a805662-a36c-4ec9-8d46-082a5a3a09a8)
+![Picsart_24-03-12_15-55-32-683](https://github.com/aakashh181/ERP/blob/11503d721f714c007e56ffda16800ff5d3e55e2d/ordermanagement.png)
 
 On the Orders page, you can view order details, update order status, and delete orders.
 
 ### Viewing Order Details
 
-![Screenshot (88)-01](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/ffaded5b-8065-426b-a16f-34dbd3c81874)
+![Screenshot (88)-01](https://github.com/aakashh181/ERP/blob/11503d721f714c007e56ffda16800ff5d3e55e2d/orderdetails.png)
 
 On the Orders page, you can view details of each order by clicking on the "View Details" button.
 
@@ -96,13 +96,13 @@ You can update the status of an order to "Shipped" by clicking the "Ship" button
 
 ### Order Calender view
 
-![Picsart_24-03-12_16-11-12-344](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/3ae931ba-fd56-43d6-96d5-41a3ccd3bfbe)
+![Picsart_24-03-12_16-11-12-344](https://github.com/aakashh181/ERP/blob/11503d721f714c007e56ffda16800ff5d3e55e2d/calenderview.png)
 
 You can view and display the order with expected delivery date by clicking  a particular date on a calender
 
 
 ### Navigation
 
-![Screenshot_20240313-093210_Evolution X Launcher-01](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/7f20158f-0d5e-4a7f-ae53-d074b0aa007d)
+![Screenshot_20240313-093210_Evolution X Launcher-01](https://github.com/aakashh181/ERP/blob/11503d721f714c007e56ffda16800ff5d3e55e2d/navigation.png)
 
 Use the navigation bar at the top of the page to switch between different sections of the application: Dashboard, Products, and Orders.

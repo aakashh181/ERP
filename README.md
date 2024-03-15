@@ -46,7 +46,7 @@ This repository contains the front end code for a web application. The applicati
 
 ### DASHBOARD
 
-![Picsart_24-03-12_13-15-46-184](https://github.com/aakashh181/ERP/blob/34ec406e3e9fa72f02c69b707441f5676048206c/project.PNG)
+![Picsart_24-03-12_13-15-46-184](https://github.com/aakashh181/ERP/blob/a3d082d457e02b6f42a28fede1a7f64b38b72f76/dashboard.png)
 
 
 The Dashboard page provides an overview of product and order information.
